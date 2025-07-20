@@ -42,4 +42,5 @@ This repository hosts the source code for my interactive web-based e-portfolio, 
 ## Usage
 click the following link to access the portfolio:
 
+https://marlyn13-cloud.github.io/marlyn-portfolio/
 ---
